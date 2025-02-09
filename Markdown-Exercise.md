@@ -49,8 +49,8 @@ print(greet("♡"))
 
 - [ ] Revel asignment
 - [x] 1.6 - 2.0 Homework for Math
-- [x] Markdown assignment 
----                  
+- [x] Markdown assignment
+                      
 [^1]: This is a footnote
 ---
 ♡
